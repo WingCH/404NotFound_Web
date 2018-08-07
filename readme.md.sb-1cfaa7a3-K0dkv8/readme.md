@@ -2,7 +2,7 @@
 
 > ​The website​ ​(​http://www.404notfound.wingpage.net)​​ ​is​ ​a​ ​platform​ ​for​ ​users​ ​to​ ​report the​ ​bugs​ ​in​ ​different​ ​websites​ ​and​ ​applications​ ​and​ ​also​ ​help​ ​developers​ ​of​ ​different websites​ ​and​ ​applications​ ​to​ ​manage​ ​the​ ​bugs.
 
-Used Laravel PHP Framework, Bootstrap,  [file-input](http://plugins.krajee.com/file-input), [TocasUI](https://github.com/TeaMeow/TocasUI) and MariaDB 10.
+Used Laravel PHP Framework, Bootstrap,  [file-input](http://plugins.krajee.com/file-input), [TocasUI](https://github.com/TeaMeow/TocasUI), [Autosize](http://www.jacklmoore.com/autosize/) and MariaDB 10.
 ## Responsive web design
 
 ![responsive -c500](https://lh3.googleusercontent.com/-jgNZAmUjTTg/W2mcH1hG6rI/AAAAAAAAtfk/ecDIQ_OyhD4AZxiY0V3BkGkTlIB94kH6wCHMYCw/I/responsive.png)
