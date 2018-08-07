@@ -1,6 +1,6 @@
 # 404NotFound
 
-> ​The website​ ​(​http://www.404notfound.wingpage.net)​​ ​is​ ​a​ ​platform​ ​for​ ​users​ ​to​ ​report the​ ​bugs​ ​in​ ​different​ ​websites​ ​and​ ​applications​ ​and​ ​also​ ​help​ ​developers​ ​of​ ​different websites​ ​and​ ​applications​ ​to​ ​manage​ ​the​ ​bugs.
+> ​The website​ ​[404NotFound](http://www.404notfound.wingpage.net) ​is​ ​a​ ​platform​ ​for​ ​users​ ​to​ ​report the​ ​bugs​ ​in​ ​different​ ​websites​ ​and​ ​applications​ ​and​ ​also​ ​help​ ​developers​ ​of​ ​different websites​ ​and​ ​applications​ ​to​ ​manage​ ​the​ ​bugs.
 
 Used Laravel PHP Framework, Bootstrap,  [file-input](http://plugins.krajee.com/file-input), [TocasUI](https://github.com/TeaMeow/TocasUI), [Autosize](http://www.jacklmoore.com/autosize/) and MariaDB 10.
 ## Responsive web design
