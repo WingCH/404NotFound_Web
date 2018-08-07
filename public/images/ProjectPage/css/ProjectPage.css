@@ -1,0 +1,72 @@
+.thumbnail {
+    padding: 0px !important;
+}
+
+#icon {
+    color: #C0C0C0;
+}
+
+#icon_text {
+    color: #797979;
+    font-weight: bold;
+    font-style: oblique;
+    padding-left: 10px;
+}
+
+.img-rounded {
+    border-radius: 2px;
+}
+
+/*https://stackoverflow.com/questions/19695784/how-can-i-make-bootstrap-columns-all-the-same-height*/
+
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.center-vertical {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.line {
+    border-right: 1px #EEEEEE solid;
+}
+
+
+textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0
+}
+
+
+textarea {
+    overflow: auto
+}
+
+textarea {
+    border: 1px solid #d9d9d9;
+    border-radius: 3px;
+    font-size: inherit;
+    margin: 0;
+    overflow: auto;
+    width: 100%
+}
+
+textarea:focus {
+    border-color: rgba(82, 168, 236, 0.8);
+    box-shadow: 0 0 6px rgba(102, 175, 233, 0.6);
+    outline: 0
+}
+
+textarea {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    padding: 6px 8px
+}
+

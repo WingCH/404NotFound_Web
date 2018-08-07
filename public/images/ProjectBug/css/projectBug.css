@@ -1,0 +1,37 @@
+textarea {
+    overflow: auto
+}
+
+button {
+    margin-top: 5px;
+}
+textarea {
+    border: 1px solid #d9d9d9;
+    border-radius: 3px;
+    font-size: inherit;
+    margin: 0;
+    overflow: auto;
+    width: 100%
+}
+
+textarea:focus {
+    border-color: rgba(82, 168, 236, 0.8);
+    box-shadow: 0 0 6px rgba(102, 175, 233, 0.6);
+    outline: 0
+}
+
+textarea {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    padding: 6px 8px
+}
+
+/*https://stackoverflow.com/questions/7827004/how-to-avoid-automatic-focus-on-first-input-field-when-popping-a-html-form-as-a*/
+:focus {
+    outline: 0;
+}
+
+:link:focus, :visited:focus {
+    outline: none;
+}
