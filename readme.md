@@ -1,4 +1,4 @@
-# 404NotFound
+# 404NotFound - A report bugs platform
 
 > ​The website​ ​[404NotFound](http://www.404notfound.wingpage.net) ​is​ ​a​ ​platform​ ​for​ ​users​ ​to​ ​report the​ ​bugs​ ​in​ ​different​ ​websites​ ​and​ ​applications​ ​and​ ​also​ ​help​ ​developers​ ​of​ ​different websites​ ​and​ ​applications​ ​to​ ​manage​ ​the​ ​bugs.
 
